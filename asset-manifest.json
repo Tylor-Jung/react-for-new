@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-for-new.git/static/css/main.0cebdae7.css",
+    "main.js": "/react-for-new.git/static/js/main.99709cc3.js",
+    "index.html": "/react-for-new.git/index.html",
+    "main.0cebdae7.css.map": "/react-for-new.git/static/css/main.0cebdae7.css.map",
+    "main.99709cc3.js.map": "/react-for-new.git/static/js/main.99709cc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cebdae7.css",
+    "static/js/main.99709cc3.js"
+  ]
+}
