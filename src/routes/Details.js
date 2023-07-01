@@ -16,7 +16,7 @@ function Details(){
       };
     useEffect(() => {
         getMovie();
-    }, [id]);
+    }, [getMovie]);
     return (
         <div className="details">
         {movie ? (
